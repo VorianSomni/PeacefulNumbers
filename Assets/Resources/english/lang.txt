@@ -1,0 +1,39 @@
+Novice
+Easy
+Medium
+Hard
+Expert
+Evil
+Continue
+There's a game ongoing.<br>Start a new game count as abandoned.<br><br>Are you sure you want to begin a new game?
+Congratulations!
+Wanna play again?
+Novice
+Easy
+Medium
+Hard
+Expert
+Evil
+Something is wrong.<br>The solution is incorrect.
+Would you like to reset the game?
+You're going back to the main menu
+Statistics
+Games Started
+Games Won
+Games not Finished
+Personal Worst
+Personal Best
+Settings
+Language
+Sound Effects
+Music
+Time
+<<<<<<< HEAD:PeacefulNumbers/Assets/Resources/english/lang.txt
+Tutorial
+About Us
+Tap to play
+Evil mode games can take up to 4 minutes to create.<br><br>The game will freeze during this time.<br><br>Do you want to try anyway?
+No Ads for $1,99.<br>(Single Purchase)<br><br>Do you wish to buy?
+=======
+Tutorial
+>>>>>>> parent of 54cfe34e (Ver0.9):My project/Assets/Resources/english/lang.txt

@@ -1,0 +1,39 @@
+Novato
+Fácil
+Médio
+Difícil
+Especialista
+Terror
+Continuar
+Há um jogo em andamento.<br>Começar um jogo novo contará como abandonado.<br><br>Tem certeza que quer começar um jogo novo?
+Parabéns!
+Gostaria de jogar de novo?
+Novato
+Fácil
+Médio
+Difícil
+Especialista
+Terror
+Algo está errado.<br>A solução está incorreta.
+Gostaria de resetar o jogo?
+Você voltará para o menu principal.
+Estatísticas
+Jogos iniciados
+Jogos ganhos
+Jogos abandonados
+Pior tempo
+Melhor tempo
+Configurações
+Linguagem
+Efeitos Sonoros
+Música
+Tempo
+<<<<<<< HEAD:PeacefulNumbers/Assets/Resources/portuguese/lang.txt
+Tutorial
+Sobre Nós
+Toque na tela para jogar
+Jogos no modo Terror podem demorar até 4 minutos para serem criados.<br><br>O jogo ficará travado nesse tempo.<br><br>Deseja tentar mesmo assim?
+Sem propaganda por R$ 9,99.<br>(Compra única)<br><br>Deseja comprar?
+=======
+Tutorial
+>>>>>>> parent of 54cfe34e (Ver0.9):My project/Assets/Resources/portuguese/lang.txt

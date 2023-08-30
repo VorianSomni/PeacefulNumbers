@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: HiddenTriples
+  m_EditorClassIdentifier: 
+  PTName: Triplos Ocultos
+  ENName: Hidden Triples
+  PTtutorialImage:
+  - {fileID: 21300000, guid: f180c7390be8dae4b84d41ddbe4ee394, type: 3}
+  - {fileID: 21300000, guid: 39ec95415cb97e34f9e42c1e5f68afb8, type: 3}
+  - {fileID: 21300000, guid: 4591a1dccedeacd4ca925af9898fe8ab, type: 3}
+  - {fileID: 21300000, guid: 4591a1dccedeacd4ca925af9898fe8ab, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: f180c7390be8dae4b84d41ddbe4ee394, type: 3}
+  - {fileID: 21300000, guid: 39ec95415cb97e34f9e42c1e5f68afb8, type: 3}
+  - {fileID: 21300000, guid: 4591a1dccedeacd4ca925af9898fe8ab, type: 3}
+  - {fileID: 21300000, guid: 4591a1dccedeacd4ca925af9898fe8ab, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  - {fileID: 21300000, guid: f80ba5a323566224988c5e2932a579b0, type: 3}
+  PTtutorialText:
+  - 'Nesse tutorial vamos falar dos Triplos ocultos. Observe o jogo a seguir:'
+  - "J\xE1 deixamos alguns valores anotados para facilitar a visualiza\xE7\xE3o.
+    Preste aten\xE7\xE3o nessas c\xE9lulas amarelas."
+  - "Podemos perceber que os n\xFAmeros 5, 6 e 7 (em roxo) aparecem apenas nessas
+    tr\xEAs c\xE9lulas. "
+  - Logo vamos elimiar os outros valores que aparecem juntos.
+  - "Com isso ficamos com os triplos \xF3bvios."
+  - "Uma coisa a se notar \xE9 que quando ocultos (ou seja, quando h\xE1 outros n\xFAmeros
+    juntos escondendo os individual/dupla/triplos) sempre \xE9 mais dif\xEDcil de
+    ver, exigindo uma aten\xE7\xE3o mais focada."
+  - Esse foi o tutorial dos Triplos Ocultos.
+  ENtutorialText:
+  - 'In this tutorial, we''re going to talk about Hidden Triples. Take a look at
+    the following puzzle:'
+  - We have already annotated some values to facilitate visualization. Pay attention
+    to these yellow cells.
+  - We can see that the numbers 5, 6, and 7 (in purple) only appear in these three
+    cells.
+  - Therefore, we will eliminate the other values that appear together.
+  - With that, we are left with the hidden triples.
+  - 'One thing to note is that when hidden (meaning when other numbers are hiding
+    the individual/double/triples), it is always more difficult to see, requiring
+    more focused attention. '
+  - That concludes the Hidden Triples tutorial.

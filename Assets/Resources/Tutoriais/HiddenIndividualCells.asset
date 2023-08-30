@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: HiddenIndividualCells
+  m_EditorClassIdentifier: 
+  PTName: "C\xE9lulas Individuais Ocultas"
+  ENName: Hidden Individual Cells
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 740f17f02979e9c4591c6b3ab2efe01c, type: 3}
+  - {fileID: 21300000, guid: 55f9513d8f35f564da2573060b02a10a, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 02218407e0648dd4ab8b400911da6dd5, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 740f17f02979e9c4591c6b3ab2efe01c, type: 3}
+  - {fileID: 21300000, guid: 55f9513d8f35f564da2573060b02a10a, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 1bd011d6115b74e41a09d4cce91e94c3, type: 3}
+  - {fileID: 21300000, guid: 02218407e0648dd4ab8b400911da6dd5, type: 3}
+  PTtutorialText:
+  - "Nesse tutorial vamos falar da celulas individuais ocultas. \xC9 uma t\xE9cnica
+    bem simples e provavelmente voc\xEA j\xE1 usou dela em algum jogo."
+  - "Observe essa grade. J\xE1 existem alguns n\xFAmeros preenchidos e temos 3 c\xE9lulas
+    com anota\xE7\xF5es. "
+  - "Nesta c\xE9lula, existem os n\xFAmeros 2 e 3, por\xE9m nessa grade o tr\xEAs
+    s\xF3 pode vir nesta posi\xE7\xE3o."
+  - "Isso \xE9 chamado de c\xE9lula individual oculta."
+  - No caso, podemos colocar o 3 aqui e resolver essa grade por completo.
+  - "At\xE9 o pr\xF3ximo tutorial."
+  ENtutorialText:
+  - In this tutorial, we're going to talk about hidden singles. It's a very simple
+    technique, and you've probably used it in some game before.
+  - Take a look at this grid. There are already some filled numbers, and we have
+    3 cells with annotations.
+  - In this cell, there are the numbers 2 and 3, but in this grid, the 3 can only
+    come in this position.
+  - This is called a hidden single.
+  - In this case, we can place the 3 here and completely solve this grid.
+  - Until the next tutorial.

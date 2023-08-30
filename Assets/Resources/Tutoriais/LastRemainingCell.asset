@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: LastRemainingCell
+  m_EditorClassIdentifier: 
+  PTName: "\xDAltima c\xE9lula que falta"
+  ENName: Last Remaining Cell
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 0cdf204ad87042e45b63f328c455d15a, type: 3}
+  - {fileID: 21300000, guid: 5593b5da0ecc091488f77c700ca379e7, type: 3}
+  - {fileID: 21300000, guid: 62046ca56c2601d4686a4cb8f9c42a0f, type: 3}
+  - {fileID: 21300000, guid: d43892808e63ec54483457085f64ae4a, type: 3}
+  - {fileID: 21300000, guid: 410738fc817df784fad5c7ce2e860c7a, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 0cdf204ad87042e45b63f328c455d15a, type: 3}
+  - {fileID: 21300000, guid: 5593b5da0ecc091488f77c700ca379e7, type: 3}
+  - {fileID: 21300000, guid: 62046ca56c2601d4686a4cb8f9c42a0f, type: 3}
+  - {fileID: 21300000, guid: d43892808e63ec54483457085f64ae4a, type: 3}
+  - {fileID: 21300000, guid: 410738fc817df784fad5c7ce2e860c7a, type: 3}
+  PTtutorialText:
+  - "Vamos \xE0 primeira t\xE9cnica do sudoku: \"\xDAltima c\xE9lula que falta\".
+    Ela \xE9 bem simples e intuitiva. Observe o jogo a seguir."
+  - "Na regi\xE3o marcada, est\xE3o faltando alguns n\xFAmeros (1, 2, 4, 8)"
+  - "Observe que nas duas regi\xF5es ao lado existem o n\xFAmero 8."
+  - "Esses n\xFAmeros impedem que o 8 seja colocado nas casas superiores e inferiores
+    da terceira c\xE9lula, restando apenas um lugar onde ele pode existir."
+  - "Essa \xE9 a t\xE9cnica \"\xDAltima c\xE9lula que falta\". Simples n\xE3o?"
+  ENtutorialText:
+  - 'Let''s go to the first sudoku technique: "Last Remaining Cell". It''s a very
+    simple and intuitive technique. Take a look at the following puzzle.'
+  - 'In the marked region, there are some missing numbers (1, 2, 4, 8). '
+  - Notice that the number 8 is present in the two regions adjacent to it.
+  - These 8s prevent the number 8 from being placed in the top and bottom cells of
+    the third cell, leaving only one place where the number 8 can be.
+  - This is the "Last Missing Cell" technique. Simple, right?

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: ObviousIndividualCells
+  m_EditorClassIdentifier: 
+  PTName: "Celulas individuais \xF3bvias"
+  ENName: Obvious Individual Cells
+  PTtutorialImage:
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: 1ecac07c140fc5640b23afcd736b4615, type: 3}
+  - {fileID: 21300000, guid: 1ecac07c140fc5640b23afcd736b4615, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: aa8f139138e4a3b42902b0c76c4dbd56, type: 3}
+  - {fileID: 21300000, guid: 1ecac07c140fc5640b23afcd736b4615, type: 3}
+  - {fileID: 21300000, guid: 1ecac07c140fc5640b23afcd736b4615, type: 3}
+  PTtutorialText:
+  - "Vamos falar de uma t\xE9cnica simples envolvendo anota\xE7\xF5es."
+  - "Observe o jogo acima. Todas as c\xE9lulas receberam anota\xE7\xF5es e podemos
+    ver as possibilidades de cada uma."
+  - "Perceba tamb\xE9m que algumas c\xE9lulas possuem apenas um n\xFAmero anotado."
+  - "No eventual caso disso acontecer, podemos marcar os n\xFAmeros sem medo, pois
+    a solu\xE7\xE3o desta c\xE9lula \xE9 o n\xFAmero anotado."
+  - "F\xE1cil, n\xE3o? At\xE9 a pr\xF3xima!"
+  ENtutorialText:
+  - Let's talk about a simple technique involving notes.
+  - Observe the game above. All cells have notes and we can see the possibilities
+    for each one.
+  - Notice also that some cells have only one number noted.
+  - In the eventual case that this happens, we can mark the numbers without fear,
+    because the solution for this cell is the noted number.
+  - Easy, right? See you next time!

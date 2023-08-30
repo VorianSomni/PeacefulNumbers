@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: LastPossibleNumber
+  m_EditorClassIdentifier: 
+  PTName: "\xDAltimo N\xFAmero Poss\xEDvel"
+  ENName: Last Possible Number
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 0d437a6e55c1c724ca8a3644646579f5, type: 3}
+  - {fileID: 21300000, guid: d6c1139516912ea468bf854be0aa84aa, type: 3}
+  - {fileID: 21300000, guid: 303e7201b6a07f644b38020a63883135, type: 3}
+  - {fileID: 21300000, guid: d3b94f5fe4dfa40438e8f003648c68b6, type: 3}
+  - {fileID: 21300000, guid: 195215cea9e0aa84db67b8f6ac733e9b, type: 3}
+  - {fileID: 21300000, guid: b91478295a888e240be91cba88109ce5, type: 3}
+  - {fileID: 21300000, guid: 20dc8b8fb43abb844bd42355b16cff70, type: 3}
+  - {fileID: 21300000, guid: 48d030b95e860644f89a5ffa659b20ec, type: 3}
+  - {fileID: 21300000, guid: 2c7901af538d7424f9552118f0b54472, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 0d437a6e55c1c724ca8a3644646579f5, type: 3}
+  - {fileID: 21300000, guid: d6c1139516912ea468bf854be0aa84aa, type: 3}
+  - {fileID: 21300000, guid: 303e7201b6a07f644b38020a63883135, type: 3}
+  - {fileID: 21300000, guid: d3b94f5fe4dfa40438e8f003648c68b6, type: 3}
+  - {fileID: 21300000, guid: 195215cea9e0aa84db67b8f6ac733e9b, type: 3}
+  - {fileID: 21300000, guid: b91478295a888e240be91cba88109ce5, type: 3}
+  - {fileID: 21300000, guid: 20dc8b8fb43abb844bd42355b16cff70, type: 3}
+  - {fileID: 21300000, guid: 48d030b95e860644f89a5ffa659b20ec, type: 3}
+  - {fileID: 21300000, guid: 2c7901af538d7424f9552118f0b54472, type: 3}
+  PTtutorialText:
+  - "Ol\xE1! Nesse tutorial vamos aprender a t\xE9cnica \"\xDAltimo n\xFAmero poss\xEDvel\".
+    Observe o jogo a seguir."
+  - "Neste ponto marcado, temos um exemplo de como utilizar essa t\xE9cnica. "
+  - "Digamos que todos os n\xFAmeros s\xE3o poss\xEDveis nessa c\xE9lula.  "
+  - "Ao olhar para a regi\xE3o que ele est\xE1, sabemos que n\xE3o pode ser 1, 3,
+    4, 5, 7, 9. "
+  - "Retiramos esses n\xFAmeros das possibilidades. "
+  - "Se olharmos para a coluna, os n\xFAmeros 4, 5, 7 e 9 est\xE3o nela. Por\xE9m
+    j\xE1 os retiramos das possibilidades. "
+  - "Se olharmos para a linha, os n\xFAmeros 1, 2, 3, 6, 7 e 9 est\xE3o nela.  "
+  - "Vamos retirar os n\xFAmeros 2 e 6 das possibilidades. "
+  - "Com isso, o \xFAltimo n\xFAmero que \xE9 poss\xEDvel de colocar nessa c\xE9lula
+    \xE9 o n\xFAmero 8, que \xE9 a solu\xE7\xE3o dessa c\xE9lula."
+  ENtutorialText:
+  - Hello! In this tutorial, we will learn the "Last Possible Number" technique.
+    Take a look at the following puzzle.
+  - In this highlighted cell, we have an example of how to use this technique.
+  - Let's say that all numbers are possible in this cell.
+  - Looking at the region it's in, we know that it cannot be 1, 3, 4, 5, 7, or 9.
+  - We remove these numbers from the possibilities.
+  - If we look at the column, numbers 4, 5, 7, and 9 are in it. But we've already
+    removed them from the possibilities.
+  - If we look at the row, numbers 1, 2, 3, 6, 7, and 9 are in it.
+  - Let's remove numbers 2 and 6 from the possibilities.
+  - With that, the last possible number that can be placed in this cell is the number
+    8, which is the solution to this cell.

@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 3bda4929641a9b1429e85306302e3507
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ohno Blazeface
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 454d6b079c746bd4997fed8a15b2ce78, type: 3}
+  - {fileID: 12800000, guid: 005e30a1abefaf74aa99a3652d5b3b30, type: 3}
+  - {fileID: 12800000, guid: a965ba9533a25fa4a84af913a1ed23c0, type: 3}
+  - {fileID: 12800000, guid: 5ac7e62071c271b41bdc0ec3c51c34dc, type: 3}
+  - {fileID: 12800000, guid: 823fd05d14b76914da46d69004f71ce9, type: 3}
+  - {fileID: 12800000, guid: e988e8a0a65b3c24a9c017f5e7ae55b7, type: 3}
+  - {fileID: 12800000, guid: e36c4461d78696f4a8928135af8e0dc0, type: 3}
+  - {fileID: 12800000, guid: 305cb287c6aa4e54581fc9d3f43f2523, type: 3}
+  - {fileID: 12800000, guid: cae66ba6e583b954c9b8c40027df5526, type: 3}
+  - {fileID: 12800000, guid: 96ac81b6551dd2a4893836c2e162d756, type: 3}
+  - {fileID: 12800000, guid: 4944ef4fa9dfaf54282c0e4bf34b45d8, type: 3}
+  - {fileID: 12800000, guid: b653ad701d604b54e8c44811b0b99425, type: 3}
+  - {fileID: 12800000, guid: d800478821762514d86d04664573e4f4, type: 3}
+  - {fileID: 12800000, guid: a998d797879e45b4eb890533bcea8c2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

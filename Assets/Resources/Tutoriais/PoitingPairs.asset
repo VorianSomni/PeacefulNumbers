@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: PoitingPairs
+  m_EditorClassIdentifier: 
+  PTName: Pares a apontar
+  ENName: Pointing Pairs
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 67a61314f9720414aa2fe58c54b2863e, type: 3}
+  - {fileID: 21300000, guid: 1fe77ddce5dc2be4da7d06328dae607c, type: 3}
+  - {fileID: 21300000, guid: 33cd8d36f4a1c0f4992cdc1d44ea6fe3, type: 3}
+  - {fileID: 21300000, guid: d2b89039fb182664bb948705a5724ef7, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 67a61314f9720414aa2fe58c54b2863e, type: 3}
+  - {fileID: 21300000, guid: 1fe77ddce5dc2be4da7d06328dae607c, type: 3}
+  - {fileID: 21300000, guid: 33cd8d36f4a1c0f4992cdc1d44ea6fe3, type: 3}
+  - {fileID: 21300000, guid: d2b89039fb182664bb948705a5724ef7, type: 3}
+  PTtutorialText:
+  - "Nesse tutorial vamos aprender sobre Pares a Apontar. Observe o jogo a seguir.
+    Nele vamos colocar algumas anota\xE7\xF5es para esse tutorial."
+  - "Na regi\xE3o superior, temos que a possibilidade do n\xFAmero 4 aparece apenas
+    nessas duas c\xE9lulas."
+  - "Com isso, esse 4 na regi\xE3o inferior n\xE3o pode existir. Ent\xE3o desconsideramos
+    a possibilidade nessa c\xE9lula."
+  - Com isso finalizamos o tutorial de Pares a Apontar
+  ENtutorialText:
+  - In this tutorial, we will learn about Pointing Pairs. Take a look at the following
+    puzzle. We will make some annotations for this tutorial.
+  - In the upper region, we can see that the possibility of the number 4 appears
+    only in these two cells.
+  - Therefore, this 4 in the lower region cannot exist. We disregard the possibility
+    in that cell.
+  - And with that, we conclude the Pointing Pairs tutorial.

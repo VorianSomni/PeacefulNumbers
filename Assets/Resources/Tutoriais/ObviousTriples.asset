@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: ObviousTriples
+  m_EditorClassIdentifier: 
+  PTName: Triplos Obvios
+  ENName: Obvious Triples
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 460c80b45c58001409a3ea83ef0af487, type: 3}
+  - {fileID: 21300000, guid: 45c6465f3cfdf1c4a9e23b80365e09ff, type: 3}
+  - {fileID: 21300000, guid: 45c6465f3cfdf1c4a9e23b80365e09ff, type: 3}
+  - {fileID: 21300000, guid: e1ba1f3d1b2c2ec4b816f606439aadb6, type: 3}
+  - {fileID: 21300000, guid: 6f93ffca1933e4447a564b7a791297ad, type: 3}
+  - {fileID: 21300000, guid: 6f93ffca1933e4447a564b7a791297ad, type: 3}
+  - {fileID: 21300000, guid: f17e08a93c0283b45be9d192d53c095f, type: 3}
+  - {fileID: 21300000, guid: 8f854f4e57ab8c049a57dc3e134fcefe, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 387b0d3e3b322c2449a6deeeeb8558cb, type: 3}
+  - {fileID: 21300000, guid: 460c80b45c58001409a3ea83ef0af487, type: 3}
+  - {fileID: 21300000, guid: 45c6465f3cfdf1c4a9e23b80365e09ff, type: 3}
+  - {fileID: 21300000, guid: 45c6465f3cfdf1c4a9e23b80365e09ff, type: 3}
+  - {fileID: 21300000, guid: e1ba1f3d1b2c2ec4b816f606439aadb6, type: 3}
+  - {fileID: 21300000, guid: 6f93ffca1933e4447a564b7a791297ad, type: 3}
+  - {fileID: 21300000, guid: 6f93ffca1933e4447a564b7a791297ad, type: 3}
+  - {fileID: 21300000, guid: f17e08a93c0283b45be9d192d53c095f, type: 3}
+  - {fileID: 21300000, guid: 8f854f4e57ab8c049a57dc3e134fcefe, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  - {fileID: 21300000, guid: 709a8a4783d569246ba508f3cdc67f29, type: 3}
+  PTtutorialText:
+  - "Nesse tutorial vamos falar de triplos \xF3bvios."
+  - "Observe essa coluna destacada. Nela existem os n\xFAmeros 1, 7 e 9."
+  - "Por mais que dentro da grade 3x3 tenha outras c\xE9lulas com n\xFAmeros 1, podemos
+    dizer que nessas 3 destacadas v\xE3o esses n\xFAmeros."
+  - "Isso quer dizer que esse 1 roxo, n\xE3o poder\xE1 receber o n\xFAmero 1. Vamos
+    elimin\xE1-lo."
+  - "A mesma coisa com esse 9 roxo aqui. Ele n\xE3o pode existir aqui, pois na parte
+    destacada em amarelo h\xE1 o n\xFAmero 9."
+  - "Com isso, vamos eliminar o 9 e resolver os n\xFAmeros."
+  - "N\xE3o sabemos em qual c\xE9lula vai cada n\xFAmero, mas sabemos que v\xE3o
+    nessas tr\xEAs c\xE9lulas. Vamos eliminar os valores em roxo que s\xE3o iguais
+    dentro da grande 3x3."
+  - "Aqui descobrimos outro triplo \xF3bvio, por\xE9m n\xE3o \xE9 t\xE3o \xFAtil
+    por n\xE3o estar em uma linha \xFAnica ou coluna (perceba o formato em L)."
+  - "Voc\xEA pode se perguntar se mesmo com dois n\xFAmeros em uma c\xE9lula ainda
+    \xE9 considerado triplo. Sim \xE9. Essas 3 c\xE9lulas s\xE3o as \xFAnicas c\xE9lulas
+    que podem ir o 3, 4 e 6, ent\xE3o consideradas triplos tamb\xE9m."
+  - "Nessa grade aqui, podemos perceber que tamb\xE9m existe um triplo \xF3bvio contendo
+    os n\xFAmeros 1, 4 e 8."
+  - "Com isso podemos eliminar os n\xFAmeros marcados em roxo, j\xE1 que esses n\xFAmeros
+    est\xE3o necess\xE1riamente dentro dessas tr\xEAs c\xE9lulas."
+  - "Com isso resolvemos mais duas c\xE9lulas."
+  - "Triplos \xF3bvios \xE9 mais uma ferramenta para resolver problemas dif\xEDceis
+    em Sudoku."
+  - "At\xE9 o pr\xF3ximo tutorial."
+  ENtutorialText:
+  - In this tutorial, we're going to talk about obvious triples.
+  - Take a look at this highlighted column. It contains the numbers 1, 7, and 9.
+  - Even though there are other cells with the number 1 within the 3x3 grid, we can
+    say that these numbers go in these 3 highlighted cells.
+  - This means that this purple 1 cannot receive the number 1. Let's eliminate it.
+  - The same goes for this purple 9 here. It cannot exist here because there is the
+    number 9 in the highlighted yellow part.
+  - With that, we will eliminate the 9 and solve the numbers.
+  - We don't know which cell each number goes in, but we know they go in these three
+    cells. Let's eliminate the purple values that are the same within the 3x3 grid.
+  - Here we discover another obvious triple, although it's not as useful because
+    it's not in a single row or column (notice the L shape).
+  - You might wonder if even with two numbers in a cell, it is still considered a
+    triple. Yes, it is. These 3 cells are the only cells where the numbers 3, 4,
+    and 6 can go, so they are also considered triples.
+  - 'In this grid, we can see that there is also an obvious triple containing the
+    numbers 1, 4, and 8. '
+  - With that, we can eliminate the numbers marked in purple since these numbers
+    are necessarily within these three cells.
+  - By doing that, we solve two more cells.
+  - Obvious triples are another tool for solving challenging Sudoku puzzles.
+  - Until the next tutorial.

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: Notes
+  m_EditorClassIdentifier: 
+  PTName: "Anota\xE7\xF5es"
+  ENName: Notes
+  PTtutorialImage:
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 073327d8b26aecb41aeaf452b1311d95, type: 3}
+  - {fileID: 21300000, guid: 59c0765982efb514396226ce443d81da, type: 3}
+  - {fileID: 21300000, guid: 59c0765982efb514396226ce443d81da, type: 3}
+  - {fileID: 21300000, guid: e6ceb8d32ee4d8e44b805e3047b306d4, type: 3}
+  - {fileID: 21300000, guid: e6ceb8d32ee4d8e44b805e3047b306d4, type: 3}
+  - {fileID: 21300000, guid: 017b3d4acdc02f64189fb4de3fd12f6d, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 52436ed705d721b41b8c6cadd1b8c3fa, type: 3}
+  - {fileID: 21300000, guid: 073327d8b26aecb41aeaf452b1311d95, type: 3}
+  - {fileID: 21300000, guid: 59c0765982efb514396226ce443d81da, type: 3}
+  - {fileID: 21300000, guid: 59c0765982efb514396226ce443d81da, type: 3}
+  - {fileID: 21300000, guid: e6ceb8d32ee4d8e44b805e3047b306d4, type: 3}
+  - {fileID: 21300000, guid: e6ceb8d32ee4d8e44b805e3047b306d4, type: 3}
+  - {fileID: 21300000, guid: 017b3d4acdc02f64189fb4de3fd12f6d, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  - {fileID: 21300000, guid: f01d936b88cc004469c7a9f67da43b0f, type: 3}
+  PTtutorialText:
+  - "Ol\xE1, nesse tutorial vamos explicar um pouco sobre anota\xE7\xF5es."
+  - "Em vers\xF5es eletr\xF4nicas de sudoku, podemos contar com uma ferramenta chamada
+    \"anota\xE7\xE3o\"."
+  - "Nada mais \xE9 do que um rascunho dos n\xFAmeros que podem ir em uma determinada
+    c\xE9lula."
+  - "Essa ferramenta \xE9 utilizada para facilitar a visualiza\xE7\xE3o das possibilidades
+    que uma c\xE9lula pode ter."
+  - "Em Peaceful Numbers, para ativar as anota\xE7\xF5es, voc\xEA deve clicar no
+    bot\xE3o \"L\xE1pis\" localizado logo abaixo do jogo."
+  - "Ao ser pressionado, o bot\xE3o se tornar\xE1 vermelho, indicando que est\xE1
+    ativo."
+  - "Depois de ativo o bot\xE3o, basta selecionar uma c\xE9lula vazia e pressionar
+    os bot\xF5es que achar necess\xE1rio."
+  - "Preste aten\xE7\xE3o no jogo acima."
+  - "A c\xE9lula marcada mostra alguns n\xFAmeros poss\xEDveis que esta pode ter."
+  - "Se em algum lugar eu inserir um n\xFAmero que est\xE1 dentro dessa c\xE9lula
+    (e que as informa\xE7\xF5es cruzem), o jogo automaticamente apaga o n\xFAmero
+    que foi colocado."
+  - "Note tamb\xE9m que temos a borracha, ao lado do lapis."
+  - "Tenha aten\xE7\xE3o que a borracha N\xC3O apaga anota\xE7\xF5es. Apenas n\xFAmeros
+    marcados."
+  - "Anota\xE7\xF5es s\xE3o a base para os pr\xF3ximos tutoriais! At\xE9 a pr\xF3xima!"
+  ENtutorialText:
+  - Hello, in this tutorial we will explain about notes.
+  - In electronic versions of Sudoku, we can use a tool called "notes".
+  - It is nothing more than a draft of the numbers that can go in a particular cell.
+  - This tool is used to facilitate the visualization of the possibilities that a
+    cell can have.
+  - In Peaceful Numbers, to activate the notes you must click on the "Pencil" button
+    located just below the game.
+  - When pressed, the button will turn red, indicating that it is active.
+  - After the button is active, simply select an empty cell and press the number
+    buttons that you think are necessary.
+  - Pay attention to the game above.
+  - The highlighted cell shows some possible numbers it can have.
+  - If I insert a number somewhere that is within this cell (where the information
+    intersects), the game automatically erases the number that was placed.
+  - Note also that we have an eraser, next to the pencil.
+  - Be aware that the eraser does NOT erase notes. Only marked numbers.
+  - Notes are the basis for the next tutorials! See you next time!

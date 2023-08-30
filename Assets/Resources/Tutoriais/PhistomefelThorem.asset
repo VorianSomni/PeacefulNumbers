@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112ea220acafed4429d2c56c770dd6b2, type: 3}
+  m_Name: PhistomefelThorem
+  m_EditorClassIdentifier: 
+  PTName: Teorema de Phistomefel
+  ENName: Phistomefel's theorem
+  PTtutorialImage:
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: 3f9a223d81c4d4740b4730e86b83c4fb, type: 3}
+  - {fileID: 21300000, guid: 3f9a223d81c4d4740b4730e86b83c4fb, type: 3}
+  - {fileID: 21300000, guid: 7611bb742b0927a4b83ceed674c4e53c, type: 3}
+  - {fileID: 21300000, guid: 0966724844b00504eba53b99563e0d84, type: 3}
+  - {fileID: 21300000, guid: 34e97e23ac4602b4ca5bf6c5cb006f7c, type: 3}
+  - {fileID: 21300000, guid: 4685c3a18606ee9478054dd028898550, type: 3}
+  - {fileID: 21300000, guid: 6d88dd16a051b4d488a2c79cd1a3eb7b, type: 3}
+  - {fileID: 21300000, guid: 1b61ab6730bff494293aabc3abe8629a, type: 3}
+  - {fileID: 21300000, guid: 4efe4937982cb304aa094546378e6804, type: 3}
+  - {fileID: 21300000, guid: 676836b1c5bcfcd498107a8dd76441d6, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 650907711c8a66f4fb1ab0a3ede791a9, type: 3}
+  - {fileID: 21300000, guid: 5b6a7e5dfabc7b2419ca7aeb755079e5, type: 3}
+  - {fileID: 21300000, guid: 5b6a7e5dfabc7b2419ca7aeb755079e5, type: 3}
+  - {fileID: 21300000, guid: 61e710b6c57a9eb41b4693806a6a0ec4, type: 3}
+  - {fileID: 21300000, guid: 61e710b6c57a9eb41b4693806a6a0ec4, type: 3}
+  - {fileID: 21300000, guid: dbf4f949a7c343b4d9df90da323973e9, type: 3}
+  - {fileID: 21300000, guid: 93665794553476c4594e11a105b99dbd, type: 3}
+  ENtutorialImage:
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: bb2013040ee693e419c5977b49872c19, type: 3}
+  - {fileID: 21300000, guid: 3f9a223d81c4d4740b4730e86b83c4fb, type: 3}
+  - {fileID: 21300000, guid: 3f9a223d81c4d4740b4730e86b83c4fb, type: 3}
+  - {fileID: 21300000, guid: 7611bb742b0927a4b83ceed674c4e53c, type: 3}
+  - {fileID: 21300000, guid: 0966724844b00504eba53b99563e0d84, type: 3}
+  - {fileID: 21300000, guid: 34e97e23ac4602b4ca5bf6c5cb006f7c, type: 3}
+  - {fileID: 21300000, guid: 4685c3a18606ee9478054dd028898550, type: 3}
+  - {fileID: 21300000, guid: 6d88dd16a051b4d488a2c79cd1a3eb7b, type: 3}
+  - {fileID: 21300000, guid: 1b61ab6730bff494293aabc3abe8629a, type: 3}
+  - {fileID: 21300000, guid: 4efe4937982cb304aa094546378e6804, type: 3}
+  - {fileID: 21300000, guid: 676836b1c5bcfcd498107a8dd76441d6, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 0aec0cb12dd064843b89ba47492e8f26, type: 3}
+  - {fileID: 21300000, guid: 650907711c8a66f4fb1ab0a3ede791a9, type: 3}
+  - {fileID: 21300000, guid: 5b6a7e5dfabc7b2419ca7aeb755079e5, type: 3}
+  - {fileID: 21300000, guid: 5b6a7e5dfabc7b2419ca7aeb755079e5, type: 3}
+  - {fileID: 21300000, guid: 61e710b6c57a9eb41b4693806a6a0ec4, type: 3}
+  - {fileID: 21300000, guid: 61e710b6c57a9eb41b4693806a6a0ec4, type: 3}
+  - {fileID: 21300000, guid: dbf4f949a7c343b4d9df90da323973e9, type: 3}
+  - {fileID: 21300000, guid: 93665794553476c4594e11a105b99dbd, type: 3}
+  PTtutorialText:
+  - "Ol\xE1! Nesse tutorial vamos aprender sobre o teorema de Phistomefel."
+  - "Vamos come\xE7ar em um jogo Novato e avan\xE7ar para um jogo Especialista."
+  - Observe o jogo a seguir.
+  - "O teorema de Phistomefel diz que os n\xFAmeros da \xE1rea amarela, correspondem
+    aos n\xFAmeros das \xE1reas azuis."
+  - "Vamos primeiramente resolver o jogo para depois vermos se isso \xE9 verdade."
+  - "Pronto. Agora com o jogo resolvido, vamos marcar dois a dois os valores dentro
+    da \xE1rea amarela correspondentes com as \xE1reas azuis."
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - "Consegue perceber que s\xE3o exatamente iguais?"
+  - "Com isso podemos eliminar possibilidades quando em jogos mais dif\xEDceis."
+  - Vamos tentar usar isso em um jogo Especialista.
+  - "Observe o jogo Especialista. Vamos colocar as possibilidades dentro de cada
+    c\xE9lula."
+  - "Observe agora o Teorema em pr\xE1tica. Temos algumas c\xE9lulas j\xE1 preenchidas
+    dentro da \xE1rea amarela e da \xE1rea azul."
+  - "Vamos marcar as que j\xE1 exitem nas duas \xE1reas ao mesmo tempo:"
+  - "Conforme voc\xEA resolve o jogo, e conforme vai aparecendo os n\xFAmeros dentro
+    das \xE1reas azuis e amarelas, voc\xEA pode ir resolvendo as c\xE9lulas que podem
+    ser correspondentes."
+  - 'Vejamos o jogo resolvido:'
+  - "E assim vamos marcar os valores das \xE1reas azuis e amarela."
+  - E com isso finalizamos o tutorial do Teorema de Phistomefel.
+  ENtutorialText:
+  - Hello! In this tutorial, we will learn about the Phistomefel's theorem.
+  - We will start with a Beginner-level puzzle and then move on to an Expert-level
+    puzzle.
+  - Take a look at the following puzzle.
+  - Phistomefel's theorem states that the numbers in the yellow area correspond to
+    the numbers in the blue areas.
+  - First, let's solve the puzzle and then see if this holds true.
+  - 'Done. Now that the puzzle is solved, let''s pair up the values in the yellow
+    area with their corresponding values in the blue areas. '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Can you see that they are exactly the same?
+  - With this theorem, we can eliminate possibilities in more challenging puzzles.
+  - Let's try using it in an Expert-level puzzle.
+  - Take a look at the Expert-level puzzle. Let's place the possibilities in each
+    cell.
+  - Now observe the theorem in action. We already have some cells filled in the yellow
+    and blue areas.
+  - 'Let''s mark the ones that exist in both areas at the same time: '
+  - 'As you solve the puzzle and as the numbers appear in the blue and yellow areas,
+    you can start solving the corresponding cells. '
+  - 'Let''s see the puzzle solved:'
+  - And thus, we mark the values in the blue and yellow areas.
+  - And with that, we conclude the tutorial on Phistomefel's theorem.
